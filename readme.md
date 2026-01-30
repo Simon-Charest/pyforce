@@ -1,4 +1,4 @@
-# PyForce
+# PyForce: Brute force password cracker for Excel files
 
 ## Setup
 ```powershell
